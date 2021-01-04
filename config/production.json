@@ -1,0 +1,4 @@
+{
+    "mongoConnectionString": "mongodb+srv://contact_keeper_admin:123456abc@cluster0.6vzij.mongodb.net/Contact_keeper?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
